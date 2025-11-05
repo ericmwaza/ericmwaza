@@ -45,6 +45,6 @@ I enjoy automating workflows, creating reports, and building modules that solve 
 - Reporting & dashboard design
 
 ---
-
+Check the work here: https://github.com/ericmwaza/Odoo-customizations
 
 > All work is presented with sanitized/demo data — no confidential client information is included.
