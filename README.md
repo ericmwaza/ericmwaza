@@ -32,6 +32,10 @@ I enjoy automating workflows, creating reports, and building modules that solve 
 - Generates detailed payroll summaries per period
 - Shows allowances, deductions, and net pay breakdowns
 - Designed for HR automation and accuracy
+- Payroll reports in both PDF/Excel
+
+### 5. MPESA Integration:
+- Integrate mpesa with odoo Ecommerce
 
 ---
 
