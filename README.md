@@ -36,7 +36,7 @@ I enjoy automating workflows, creating reports, and building modules that solve 
 ---
 
 ## Technical Skills
-- Odoo 15/16 | Python | PostgreSQL | QWeb/XLSX Reports
+- Odoo 18 | Python | PostgreSQL | QWeb/XLSX Reports
 - Custom module development and automation
 - Reporting & dashboard design
 
